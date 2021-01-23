@@ -1,0 +1,37 @@
+body {
+    font-family: 'Montserrat', sans-serif, Arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+.imagemQuadro{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    font-family: 'Montserrat', sans-serif, Arial;
+    margin: 0 2px;
+    padding: 4px;
+    margin-top: 50px;
+    
+    
+}
+
+#operadorUm, #operadorDois {
+    width: 100px;
+}
+
+div#resultado {
+    margin-top: 50px;
+}
+
+input.nextpage{
+    margin-top: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
