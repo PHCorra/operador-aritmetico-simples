@@ -5,5 +5,5 @@ Código realizado para estudos. Utilizei-me de HTML, CSS e JS Vanilla. Primeiro 
 *Alguns pontos de atenção:*
  - Pretendo ainda colocar um operador para formas geométricas;
  - Todo repositório aqui é de fim estudantil;
- - Qualquer opinião ou ajuda é é bem vinda e de grande consideração;
+ - Qualquer opinião ou ajuda é bem vinda e de grande consideração;
  
